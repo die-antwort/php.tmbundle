@@ -68,7 +68,7 @@ if grep &lt;&lt;&lt;${TM_CURRENT_WORD:-!} -Esq '^[a-zA-Z0-9_]+$'
 				exit_show_html
 			else URL="http://php.net/manual/en/$URL.php"
 		fi
-		exit_show_html "&lt;meta http-equiv='Refresh' content='0;URL=$URL'&gt;"
+		open $URL
 	else echo "Nothing to lookup (hint: place the caret on a function name)"
 fi</string>
 	<key>input</key>
