@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;?${TM_PHP_OPEN_TAG:php} foreach (\$${1:variable} as \$${2:key}${3: =&gt; \$${4:value}}): ?&gt;
+	<string>&lt;?${TM_PHP_OPEN_TAG:php} foreach (\$${1:variable} as \$${2:key}${3: =&gt; \$${4:value}}) { ?&gt;
 	${0}
-&lt;?${TM_PHP_OPEN_TAG:php} endforeach ?&gt;</string>
+&lt;?${TM_PHP_OPEN_TAG:php} } ?&gt;</string>
 	<key>name</key>
 	<string>&lt;?php foreach (…) … &lt;?php endforeach ?&gt;</string>
 	<key>scope</key>

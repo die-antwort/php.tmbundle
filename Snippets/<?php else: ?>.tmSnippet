@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;?${TM_PHP_OPEN_TAG:php} else: ?&gt;</string>
+	<string>&lt;?${TM_PHP_OPEN_TAG:php} } else { ?&gt;</string>
 	<key>name</key>
 	<string>&lt;?php else: ?&gt;</string>
 	<key>scope</key>
