@@ -76,7 +76,7 @@ fi</string>
 	<key>inputFormat</key>
 	<string>text</string>
 	<key>keyEquivalent</key>
-	<string>^h</string>
+	<string>^H</string>
 	<key>name</key>
 	<string>Documentation for Word</string>
 	<key>outputCaret</key>
