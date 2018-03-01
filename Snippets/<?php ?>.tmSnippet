@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>&lt;?php … ?&gt;</string>
 	<key>scope</key>
-	<string>text.html.php, L:dyn.caret.begin.document</string>
+	<string>text.html.php</string>
 	<key>tabTrigger</key>
 	<string>php</string>
 	<key>uuid</key>
